@@ -1,5 +1,5 @@
 # Tặng ban
-## _Một điều nho nhỏ tỏ tình với crush_
+## _Một điều nho nhỏ
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
