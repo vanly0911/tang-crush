@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'Phải chăng em bị khùng lâu rồi phải hk ',
     btnYes: 'uk, đúng ròi. Bị lâu rồi mà hk dám nói',
     btnNo: 'Không, làm gì có :3',
-    question:'rên thế giới hơn 7 tỉ người mà sao em bị khùng vậy <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em bị khùng vậy <3',
     btnReply: 'Gửi bệnh viện',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'tôi biết mà 🥰.chúng tôi đã cố gắng hết sức 😘😘',
